@@ -10,7 +10,7 @@ from yaml import load, FullLoader
 
 memm = """
 name: memory_machine
-description: Remembers everything you ask it to remember and recalls it later, if you as it to.
+description: Remembers everything you ask it to remember and recalls it later, if you ask it to.
 input_schema:
   type: object
   properties:
